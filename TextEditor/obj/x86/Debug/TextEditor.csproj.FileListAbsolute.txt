@@ -1,0 +1,16 @@
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Form1.resources
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Form1.resources
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EGEBK\Desktop\Mert ŞENTÜRK\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.write.1.tlog
